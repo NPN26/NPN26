@@ -42,10 +42,12 @@ September 2023 - Present
   <img src="https://streak-stats.demolab.com?user=NPN26&hide_border=true" alt="GitHub Streak" />
 </p>
 
+## My Listening Activity
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cekiw7q9ffa91u1qjhcrpr21o&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cekiw7q9ffa91u1qjhcrpr21o&cover_image=true&theme=spotify-embed&show_offline=true&background_color=4f4040&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
+  <img src="https://lastfm-widget-nine.vercel.app/api/lastfm?user=NP26&chart=activity" alt="My Last.fm Activity" />
 </p>
 
 ## Contact
