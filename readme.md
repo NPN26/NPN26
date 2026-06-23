@@ -47,7 +47,7 @@ September 2023 - Present
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cekiw7q9ffa91u1qjhcrpr21o&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cekiw7q9ffa91u1qjhcrpr21o&cover_image=true&theme=spotify-embed&show_offline=true&background_color=4f4040&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
-  <img src="https://lastfm-widget-nine.vercel.app/api/lastfm?user=NP26&chart=top_artists&period=1month&display=bar" alt="My Last.fm Activite" />
+  <img src="https://lastfm-widget-nine.vercel.app/api/lastfm?user=NP26&chart=activity&t=1" alt="My Last.fm Activite" />
 </p>
 
 ## Contact
