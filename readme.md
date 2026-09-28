@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Computer Science Student at Heriot-Watt University Dubai</strong><br/>
-  Aspiring Software Engineer | Data Science | AI | Full-Stack Development
+  Software Engineering | Data Science | Artificial Intelligence | Full-Stack Development
 </p>
 
 <p align="center">
@@ -13,23 +13,52 @@
 
 ## Professional Summary
 
-Computer Science student with hands-on experience in software development, data analysis, and emerging technologies. I enjoy working across the full development lifecycle, from requirements gathering to deployment, with a focus on clean, maintainable solutions.
+Final-year BSc (Hons) Computer Science (Data Science) student with a strong foundation in software development, database management, and backend systems. Experienced in building backend services, APIs, and ERP integrations, including the development of conversational AI agents with context management and database integration. Currently focused on data engineering and scalable data pipelines. Seeking internship and graduate opportunities in Software Engineering, Data Science, and Artificial Intelligence.
 
-I am currently seeking internship opportunities in Data Science, AI, Software Engineering, or Web Development.
+## Professional Experience
+
+**Backend Engineer** | Neural Ledger, Dubai  
+*May 2026 - August 2026*
+- Engineered backend services and data processing workflows for an AI-driven fintech platform.
+- Designed and implemented a multi-node conversational AI agent using LangGraph and Retrieval-Augmented Generation (RAG), developing custom state management and query processing pipelines.
+- Executed a complete rebuild of the company web application based on Figma designs, implementing responsive architecture and multi-language (i18n) support.
+- Conducted comprehensive QA testing and end-to-end product validation to ensure robust deployment and release readiness.
+
+**Junior Software Developer & Web Development Intern** | The Student Dorm, Dubai  
+*January 2025 - August 2025*
+- Developed and maintained platform features across frontend and backend components using scalable code structures.
+- Built internal automation tools for performance testing, customer onboarding, and system monitoring.
+- Managed CI/CD pipelines, deployment environments, and automated operational workflows.
+- Investigated technical issues, performed root-cause analysis, and implemented fixes to improve platform reliability.
+
+**UI/UX Designer (Freelance)** | Messify, Dubai  
+*June 2025 - August 2025*
+- Designed user interface layouts, visual mockups, and wireframes for a mobile application using Figma.
+- Collaborated with the development team to communicate design requirements and interface positioning.
 
 ## Education
 
-**BSc (Hons) Computer Science, Heriot-Watt University Dubai**  
-September 2023 - Present
+**BSc (Hons) Computer Science** | Heriot-Watt University, Dubai  
+*September 2023 - Present*
+- Awarded the Deputy Principal's Award for Academic Excellence in First, Second, and Third Year.
+- Secretary, Media Club (2025-2026): Managed communications, coordinated events, and oversaw content production.
 
-- Deputy Principal's Award for Academic Excellence (First Year)
-- Deputy Principal's Award for Academic Excellence (Second Year)
+## Technical Skills
 
-## Tech Stack
+- **Programming Languages:** Python, SQL, JavaScript, TypeScript, Java, C, C++
+- **AI and Machine Learning:** PyTorch, LangGraph, Retrieval-Augmented Generation (RAG), Convolutional Neural Networks (CNNs), scikit-learn
+- **Data Engineering and Analytics:** dbt, LookML, Looker, DuckDB, Power BI, ETL pipelines
+- **Databases:** PostgreSQL, MySQL, Supabase
+- **Web Frameworks:** Next.js, Node.js, Express, React, Tailwind CSS
+- **Tools and DevOps:** Git, GitHub Actions, CI/CD, REST APIs, n8n, Figma, VS Code
 
-**Languages:** JavaScript, TypeScript, Python, Java, C, SQL  
-**Frameworks and Tools:** Node.js, Express, PHP, React, Next.js, Tailwind CSS, Supabase, Git, CI/CD  
-**Data and AI:** MySQL, PostgreSQL, PyTorch, Statistical Analysis, Data Structures and Algorithms
+## Certifications
+
+- **Relational Database** - FreeCodeCamp (May 2026)
+- **AI Agents Fundamentals** - Hugging Face (May 2026)
+- **Data Scientist in Python** - DataCamp (June 2026)
+- **dbt Fundamentals** - DataCamp (June 2026)
+- **Developing Data Models with LookML** - Google (July 2026)
 
 ## GitHub Analytics
 
@@ -42,17 +71,18 @@ September 2023 - Present
   <img src="https://streak-stats.demolab.com?user=NPN26&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## My Listening Activity
+## Listening Activity
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=cekiw7q9ffa91u1qjhcrpr21o&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cekiw7q9ffa91u1qjhcrpr21o&cover_image=true&theme=spotify-embed&show_offline=true&background_color=4f4040&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
-  <img src="https://lastfm-widget-nine.vercel.app/api/lastfm?user=NP26&chart=activity&t=1" alt="My Last.fm Activite" />
+  <img src="https://lastfm-widget-nine.vercel.app/api/lastfm?user=NP26&chart=activity&t=1" alt="My Last.fm Activity" />
 </p>
 
 ## Contact
 
-- Email: **nirupnandish@gmail.com**
-- LinkedIn: **[nirup-nandish-0976a7277](https://www.linkedin.com/in/nirup-nandish-0976a7277/)**
-- GitHub: **[NPN26](https://github.com/NPN26)**
-- Location: **Dubai, United Arab Emirates**
+- **Email:** nirupnandish@gmail.com
+- **LinkedIn:** [Nirup Nandish](https://www.linkedin.com/in/nirup-nandish-0976a7277/)
+- **GitHub:** [NPN26](https://github.com/NPN26)
+- **Location:** Dubai, United Arab Emirates
